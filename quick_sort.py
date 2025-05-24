@@ -35,3 +35,4 @@ if __name__ == "__main__":
     t3 = time.time()
     print(f"快速排序耗时: {t2 - t1:.6f} 秒")
     print(f"冒泡排序耗时: {t3 - t2:.6f} 秒")
+    print("更新完毕")
